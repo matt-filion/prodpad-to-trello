@@ -1,0 +1,14 @@
+{
+  "name": "prodpad-to-trello",
+  "version": "1.0.0",
+  "description": "One way synchronization of prodpad data into Trello.",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Filion <matt.filion@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "html-to-markdown": "^1.0.0"
+  }
+}
